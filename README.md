@@ -1,6 +1,3 @@
-# README.md
-
-```markdown
 # Vue Website Conversion Project
 
 ## Overview
@@ -12,4 +9,4 @@ This project involves converting a traditional website into a Vue-based applicat
 - Maintain aesthetic equivalence to the original website
 - Place Vue project in the "VueWebsite" directory
 - Install Bootstrap via NPM (no CDN links)
-```
+
